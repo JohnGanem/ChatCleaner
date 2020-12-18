@@ -1,0 +1,12 @@
+[
+    {
+        "channel": "xxxxxxxxxxxxxxxxx",
+        "action": "supprimer",
+        "exceptions": [
+            {
+                "type": "commence par",
+                "parametre": "WTB"
+            }
+        ]
+    }
+]
