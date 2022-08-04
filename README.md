@@ -1,5 +1,13 @@
 # ChatCleaner
 
+## Informations
+ChatCleaner est un bot discord qui a été utilisé dans le cadre de l'alliance Toilet Paper sur le MMORPG Eve Online, qui sert à :
+
+- Gérer automatiquement les messages de spam
+- Définir des mots-clés afin d'autoriser certains messages
+
+L'utilisation du bot est à la demande et à la validation du créateur uniquement.
+
 ## Installation :
 ``` composer install ```
 
